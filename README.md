@@ -23,11 +23,11 @@
 
 ### :woman_technologist: About Me :
 I am a React js Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope:I am React js developer.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring React Native.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I write  articles on medium.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leela-bhaskar-2940b1223/)
 
@@ -41,8 +41,12 @@ I am a React js Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-1024.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-1024.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png" title="Python" alt="Python" width="40" height="40"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" title="C" alt="C" width="40" height="40"/>
   <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-1024.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-1024.png" title="Git" **alt="Git" width="40" height="40"/>
+  
+ 
 </div>
 
 ---
@@ -53,4 +57,5 @@ I am a React js Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leelabhaskar22&hide_progress=false)
 
 ---
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=leelabhaskar22&show_icons=true&bg_color=00000000)
 
