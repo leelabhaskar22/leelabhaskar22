@@ -45,7 +45,8 @@ I am a React js Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" title="C" alt="C" width="40" height="40"/>
   <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-1024.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-1024.png" title="Git" **alt="Git" width="40" height="40"/>
-  
+ <img src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-1024.png" title="Nextjs" **alt="Next js" width="40" height="40"/>
+
  
 </div>
 
